@@ -1,3 +1,3 @@
-import * as all from '/temp/D.js'
+import * as all from "/nest-import/D.js";
 
-console.log('B -----')
+console.log("B -----");

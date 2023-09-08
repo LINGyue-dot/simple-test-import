@@ -1,4 +1,4 @@
-import "/temp/B.js";
-import "/temp/C.js";
+import "/nest-import/B.js";
+import "/nest-import/C.js";
 
 console.log("A ---------- ");
